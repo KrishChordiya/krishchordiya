@@ -21,4 +21,4 @@
 <h3 align="left">Stats:</h3>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishchordiya&show_icons=true&locale=en&layout=compact" alt="krishchordiya" /></p>
 
-![snake gif](https://github.com/krishchordiya/krishchordiya/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/krishchordiya/krishchordiya/blob/output/snake.svg)
