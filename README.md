@@ -1,21 +1,37 @@
-<h1 align="center">Hi 👋, I'm Krish Chordiya</h1>
-<h3 align="center">A ML enthusiast from India</h3>
+<h1 align="center">Hi, I'm Krish Chordiya</h1>
+<h3 align="center">Developer & AI/ML Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishchordiya&label=Profile%20views&color=0e75b6&style=flat" alt="krishchordiya" /> </p>
+## About Me
+I am a developer who enjoys exploring the internals of AI systems and building tools that bridge the gap between complex research and practical utility. My focus is on understanding the "how" and "why" behind intelligent systems, rather than just the "what."
 
-<p align="center"><img align="center" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=790b7611cgnzmi6wi3mw0vla5j1f372jdjglbb70y2fxn6zm&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="krishchordiya"/></p>
+- 🏗️ **Building** at the intersection of machine learning and scalable software engineering.
+- 🤖 **Deeply curious** about the mechanics of Large Language Models, Computer Vision, and high-performance inference.
+- ⚡ **Ideology**: I believe in engineering for efficiency optimizing every microsecond and every token to make technology more accessible.
+- 🌐 **Driven** by the challenge of transforming raw data into structured, meaningful interactions.
 
-- 🌱 I’m currently learning **LLM & GenAI**
 
-- 📫 How to reach me **chordiyakrish7@gmail.com**
+## Tech Stack
+![C++](https://img.shields.io/badge/C%2B%2B-black?style=for-the-badge&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![PyTorch](https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=pytorch)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-black?style=for-the-badge&logo=huggingface)
+![FastAPI](https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=fastapi)
+![OpenCV](https://img.shields.io/badge/OpenCV-black?style=for-the-badge&logo=opencv)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+## Connect With Me
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/krishchordiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishchordiya" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/krishchordiya">
+    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="mailto:chordiyakrish7@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail" alt="Gmail">
+  </a>
 </p>
-
-<h3 align="left">Stats:</h3>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishchordiya&show_icons=true&locale=en&layout=compact" alt="krishchordiya" /></p>
